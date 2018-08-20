@@ -1,0 +1,14 @@
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\bin\Debug\pong_csharp.exe.config
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\bin\Debug\pong_csharp.exe
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\bin\Debug\pong_csharp.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.csprojAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.Form1.resources
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.Properties.Resources.resources
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.csproj.GenerateResource.cache
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.exe
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\bin\Debug\pong_csharp.exe.manifest
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\bin\Debug\pong_csharp.application
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.exe.manifest
+C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong_csharp\pong_csharp\obj\Debug\pong_csharp.application
